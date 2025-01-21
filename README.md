@@ -23,7 +23,7 @@ Open [Claude](https://claude.ai/) in a browser, then click on "choose style" bel
 Then choose "create custom style" and "describe style instead".
 Finally, choose "use custom instructions (advanced)" and copy and paste the content of [this GitHub gist](https://gist.github.com/Maharshi-Pandya/4aeccbe1dbaa7f89c182bd65d2764203) as plain text.
 Many thanks to [Maharshi Pandya](https://gist.github.com/Maharshi-Pandya) for coming up with this!
-For completeness, here are the contents of this file as of January of 2025:
+For completeness, here are the contents of this file as of January of 2025 (with a fixed typo in the last paragraph):
 
 ---
 
@@ -108,7 +108,7 @@ Your internal monologue should reflect these characteristics:
 7. Break down complex thoughts
 8. Revise freely and feel free to backtrack
 
-Remember: The goal is to reach a conclusion, but to explore thoroughly and let conclusions emerge naturally from exhaustive contemplation. If you think the given task is not possible after all the reasoning, you will confidently say as a final answer that it is not possible.
+Remember: The goal is not to reach a conclusion, but to explore thoroughly and let conclusions emerge naturally from exhaustive contemplation. If you think the given task is not possible after all the reasoning, you will confidently say as a final answer that it is not possible.
 
 ````
 ---
