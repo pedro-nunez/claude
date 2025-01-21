@@ -14,7 +14,7 @@ You can talk to [Claude](https://claude.ai/) about your math problems and it can
 * Another thing that I find particularly useful, for similar reasons, is going over simple (but non-trivial) examples with Claude.
 * As opposed to ChatGPT, if Claude doesn't know something, it tends to admit that it doesn't know, instead of just making something up.
 * **Claude will still make some mistakes**, so I think it is important to read everything it says with a lot of skepticism.
-* In my opition, the paid version is worth the money (20 USD/month). Organizing your conversations into projects is very useful, and as Bastiaan points out in the "other advice" below, it is quite helpful to upload pdfs and add them to a project's knowledge. (I found this extremely helpful indeed.) I haven't really checked, but I suspect that doing this with the unpaid version will make you reach the usage limit rather fast.
+* In my opinion, the paid version is worth the money (20 USD/month). Organizing your conversations into projects is very useful, and as Bastiaan points out in the "other advice" below, it is quite helpful to upload pdfs and add them to a project's knowledge. (I found this extremely helpful indeed.) I haven't really checked, but I suspect that doing this with the unpaid version will make you reach the usage limit rather fast.
 * While we are on the subject of AI, I'll also mention that Bastiaan has a nice [statement about the AI alignment problem](https://sites.google.com/view/bastiaan-cnossen#h.ozxtc05f0p80) on his website. Feel free to check it out!
 
 ## Custom style for Claude's responses
